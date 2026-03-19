@@ -70,6 +70,22 @@ CAEHJM2NVDC7IPHICCPAVSNFF3MN4SK4F5K5O6V5T3MSDQBULBLNLUCB
 
 ---
 
+## 📸 Contract Explorer View
+
+![Stellar Lab Contract Explorer](screenshots/contract-explorer.png)
+
+**Contract Information:**
+- ✅ **Status:** Active & Deployed
+- 📅 **Created:** Thu, Mar 19, 2026, 08:10:30 UTC
+- 👤 **Creator:** `GCIGHCBN77IE6UYVNWA2FJAKKR7MI4CSL736LSMPAL4KETT3X4IOKGEU`
+- 🔐 **WASM Hash:** `fd69da804c08ec8a56dc98fc46cc07568f651edcdee...`
+- 💾 **Storage:** 1 entry
+- 🔧 **Build Status:** Build Unverified (Ready for use)
+
+The contract is live and ready for interaction via the Stellar Lab or through your Freighter wallet!
+
+---
+
 ## 📁 Project Structure
 
 This repository uses the recommended structure for a Soroban project:
